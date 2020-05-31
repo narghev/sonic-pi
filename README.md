@@ -4,4 +4,4 @@ This repository contains Songs made with [Sonic Pi](https://sonic-pi.net). [Soni
 
 I have made some song examples in it.
 
-- Moonlight Sonata to Still D.R.E. [Code](https://github.com/narghev/sonic-pi/moonlight_to_still.rb) | [Recording](https://github.com/narghev/sonic-pi/recordings/moonlight_to_still.wav)
+- Moonlight Sonata to Still D.R.E. [Code](https://github.com/narghev/sonic-pi/blob/master/moonlight_to_still.rb) | [Recording](https://github.com/narghev/sonic-pi/blob/master/recordings/moonlight_to_still.wav)
